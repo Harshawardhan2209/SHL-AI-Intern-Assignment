@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# SHL Assessment Recommender
+# SHL Assessment Recommender V2 
 
 A semantic search and recommendation system for SHL assessments that helps match job requirements with appropriate assessment tools.
 
