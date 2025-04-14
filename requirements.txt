@@ -1,0 +1,9 @@
+openai
+numpy
+pandas
+scikit-learn
+python-dotenv
+qdrant-client
+tqdm
+streamlit
+requests
